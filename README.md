@@ -35,6 +35,23 @@ This sprint is designed to simulate real-world business analysis challenges. Usi
 ---
 
 ## 📁 Project Structure
+📂 Data-Analytics---Customer-Sales-Sprint      ← This is the root folder of the GitHub repo
+
+├── 📄 Sales_Analytics_Queries.sql             ← Contains all SQL queries used in the analysis.
+                                                 These include sales per city, top customers, 
+                                                 inactive customers, etc.
+
+├── 📊 Sales_Analytics_Dashboard.xlsx          ← Excel file with the final interactive dashboard.
+                                                 Includes pivot tables, charts, slicers, etc.
+
+├── 📘 Sales_Analytics_Documentation.pdf       ← A PDF explaining:
+                                                   - Dataset structure
+                                                   - Query logic
+                                                   - Insights interpretation
+                                                   - Dashboard explanation
+
+└── 📄 README.md                                ← The file you're reading now!
+
 
 
 
