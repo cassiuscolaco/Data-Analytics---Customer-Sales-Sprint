@@ -1,0 +1,29 @@
+
+Sales Analytics Sprint - Documentation
+
+Objective:
+Build an Excel Dashboard using Sales and Customer data.
+
+Steps Performed:
+1. Merged 'Sales' and 'Customer' data using CustomerID.
+2. Created KPIs:
+   - Total Revenue
+   - Number of Unique Customers
+   - Average Sale per Customer
+3. Aggregated Monthly Sales for line chart visualization.
+4. Computed Total Sales per Product for pivot table and bar chart.
+5. Identified Top 3 Cities by total sales for conditional formatting.
+6. Identified Top 5 Products for bar chart.
+7. Exported all necessary data views to Excel for easy dashboard creation.
+
+Sheets in Output Excel File:
+- Merged Data: Cleaned and merged sales + customer data.
+- Sales per Product: Aggregated sales by product.
+- Top 3 Cities: Top performing cities by sales.
+- Monthly Sales: Revenue per month.
+- Top 5 Products: Best-selling products.
+
+Next Steps (In Excel):
+- Use pivot tables and charts to visualize these datasets.
+- Apply slicers for City/Product filters.
+- Use conditional formatting for highlighting top cities.
